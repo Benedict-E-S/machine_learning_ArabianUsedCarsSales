@@ -1,4 +1,4 @@
-# M3_Capstone_BES
+# machine_learning_ArabianUsedCarsSales
 ## Context
 Syarah is a cars sales company based in Riyadh, Saudi Arabia. The company specializes in promoting the sale of new and used cars, assisting companies and people in purchasing or selling their vehicles as easily and quickly as possible. Syarah provides an online car marketplace through their mobile application and website, syarah.com, there users could look through their catalogue of cars that are on sale. Alternatively, users who want to sell their cars through Syarah can submit a form, filled with details of their car. Then users will bring their car to Syarah to have it inspected and then put it up in Syarah's catalogue of used cars for sale.
 
